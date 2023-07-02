@@ -237,6 +237,7 @@ h4.name {
 }
 footer.footer-section {
     margin-top: -5px;
+	padding:80px 0px;
 }
 .footer-section{
     display: flex;
